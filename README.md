@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá! Eu sou Vitor Jardim 👋
 
-<!--
-**vitorjardim1980/vitorjardim1980** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+Sou Técnico em Informática e estou iniciando minha carreira na área de Tecnologia, com foco em Python e Inteligência Artificial.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou em busca da minha primeira oportunidade para aprender, crescer profissionalmente e contribuir com dedicação e responsabilidade.
+
+## Conhecimentos
+
+- Informática
+- Manutenção de computadores
+- Python (em aprendizado)
+- Git e GitHub
+- Inteligência Artificial (em aprendizado)
+
+## Objetivos
+
+- Conquistar minha primeira oportunidade na área de tecnologia.
+- Desenvolver projetos práticos.
+- Evoluir constantemente como profissional.
+
+## Contato
+
+📧 Disponível mediante solicitação.
+
+Obrigado por visitar meu perfil!
